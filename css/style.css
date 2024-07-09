@@ -1,0 +1,12 @@
+ul.nghia {
+    list-style-type: none; /* Loại bỏ dấu chấm đầu dòng */
+    padding: 0; /* Loại bỏ khoảng trống mặc định */
+    margin: 0; /* Loại bỏ khoảng trống mặc định */
+}
+ul.nghia li {
+    display: inline; /* Hiển thị các mục theo chiều ngang */
+    margin-right: 10px; /* Khoảng cách giữa các mục */
+}
+.mausac{
+    color: darkmagenta;
+}
